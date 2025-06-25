@@ -1,2 +1,3 @@
 # odin-landing
-Landing page project
+All images are taken from beatuiful artist @UltraLuther
+https://www.pixilart.com/ultralutherLanding page project
