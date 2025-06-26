@@ -1,0 +1,26 @@
+body {
+    font: Roboto;
+
+}
+
+.header, .main, .footer {
+    background-color: #1F2937;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.link, .subtext, .footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.hero, .logo {
+    color: #F9FAF8;
+}
